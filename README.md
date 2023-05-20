@@ -1,1 +1,1 @@
-# WeVote
+# Online Voting System
